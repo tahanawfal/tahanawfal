@@ -26,6 +26,10 @@ I am a performance officer at Van Steel with a background in data and financial 
 
 ### Badges
 
+<b>Progress at roadmap.sh </b>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/650f50f4d5295d7a813bced4?variant=dark)](https://roadmap.sh)
+
 <b>My GitHub Stats</b>
 
 [<a href="http://www.github.com/tahanawfal"><img src="https://github-readme-stats.vercel.app/api?username=tahanawfal&show_icons=true&count_private=true&title_color=ffffff&text_color=0891b2&icon_color=ffffff&bg_color=1c1917&hide_border=false" alt="tahanawfal's GitHub stats" /></a>](https://camo.githubusercontent.com/8d831096bcddd291f29f2fbb913f74a50b66f2d5483a99a93448769cab5ce27a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135)
