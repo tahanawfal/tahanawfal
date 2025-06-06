@@ -9,7 +9,7 @@ I am a performance officer at Van Steel with a background in data and financial 
 * 🌍  I'm based in Iraq, Erbil
 * 🖥️  See my portfolio at [MyPortfolio](http://tahanawfal.carrd.co/)
 * ✉️  You can contact me at [da.tahanawfal@gmail.com](mailto:da.tahanawfal@gmail.com)
-* 🧠  I'm learning Data Engineering & BI Tools
+* 🧠  I'm learning Data Engineering
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
