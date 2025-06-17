@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taha Nawfal
 ===================================================================================================================================
 
-Data Analyst
+Data Engineer
 ------------
 
-I am a performance officer at Van Steel with a background in data and financial analysis, specializing in data collection, transformation, and visualization to support strategic decision-making. Skilled in Excel, SQL, Power BI, Tableau, Python, and R, I bring experience from roles as a data entry clerk and sales operations coordinator. I hold a Bachelor’s in Communication Engineering and have completed projects analyzing diverse data sets, including marriage and divorce rates in Iraq, movie data, and bike marketing.
+As a Performance Officer at Van Steel, I leverage my skills in SQL, Python, and Tableau to automate data collection, transformation, and visualization, supporting strategic decision‑making for sales and commercial teams. I hold certifications in Data Analytics and Visualization from Google, IBM, and Microsoft in addition of my communication engineering background. In my spare time, I’ve undertaken personal projects, analyzing trends in US data jobs, marriage and divorce rates in Iraq, movie datasets, and strategy game statistics. I’m eager to build on this foundation as a Junior Data Engineer.
 
 * 🌍  I'm based in Iraq, Erbil
 * 🖥️  See my portfolio at [MyPortfolio](http://tahanawfal.carrd.co/)
